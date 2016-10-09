@@ -4,6 +4,7 @@ var gulp = require('gulp'),
     concat = require('gulp-concat'),
     scss = require('gulp-sass'),
     autoprefixer = require('gulp-autoprefixer'),
+    cssmin = require('gulp-cssmin'),
     webserver = require('gulp-webserver');
 
 

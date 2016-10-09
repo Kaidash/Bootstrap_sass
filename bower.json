@@ -1,6 +1,6 @@
 {
-  "name": "sn-angular-template",
-  "description": "Angular JS template",
+  "name": "bootstrap",
+  "description": "bootstrap",
   "main": "",
   "moduleType": [],
   "keywords": [
@@ -8,7 +8,7 @@
     "template"
   ],
   "authors": [
-    "Shcherbakan Dmitriy"
+    "Kaidash"
   ],
   "license": "MIT",
   "homepage": "",
