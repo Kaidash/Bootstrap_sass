@@ -1,0 +1,27 @@
+{
+  "name": "sn-angular-template",
+  "description": "Angular JS template",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "AngularJS",
+    "template"
+  ],
+  "authors": [
+    "Shcherbakan Dmitriy"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}

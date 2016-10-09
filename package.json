@@ -1,0 +1,19 @@
+{
+  "name": "sn-angular-template",
+  "version": "0.1.0",
+  "description": "Angular JS template",
+  "dependencies": {
+    "bower": "^1.7.*"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.*",
+    "gulp-concat": "^2.6.*",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-sass": "^2.1.*",
+    "gulp-webserver": "^0.9.1"
+  },
+  "scripts": {
+    "run": "gulp"
+  },
+  "author": "Shcherbakan Dmitriy"
+}
